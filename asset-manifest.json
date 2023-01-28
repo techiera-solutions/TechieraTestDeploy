@@ -1,17 +1,27 @@
 {
   "files": {
-    "main.css": "/pattern/static/css/main.b32d76b7.css",
-    "main.js": "/pattern/static/js/main.00770d8e.js",
-    "static/js/787.e87b97f7.chunk.js": "/pattern/static/js/787.e87b97f7.chunk.js",
-    "static/media/logo.svg": "/pattern/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/pattern/index.html",
-    "static/media/copy.svg": "/pattern/static/media/copy.7965d62208bc06ec0c999ce6581ced70.svg",
-    "main.b32d76b7.css.map": "/pattern/static/css/main.b32d76b7.css.map",
-    "main.00770d8e.js.map": "/pattern/static/js/main.00770d8e.js.map",
-    "787.e87b97f7.chunk.js.map": "/pattern/static/js/787.e87b97f7.chunk.js.map"
+    "main.css": "/techiera/static/css/main.e9b9a548.css",
+    "main.js": "/techiera/static/js/main.d3c8ea71.js",
+    "static/js/787.928f6902.chunk.js": "/techiera/static/js/787.928f6902.chunk.js",
+    "static/media/TeamAditi.jpeg": "/techiera/static/media/TeamAditi.4e6fe1eb47b73493952d.jpeg",
+    "static/media/glassdepth-1.png": "/techiera/static/media/glassdepth-1.0c5dbffdd0a7962d53e7.png",
+    "static/media/js.jpg": "/techiera/static/media/js.a389c9cbcde42923bfab.jpg",
+    "static/media/html.png": "/techiera/static/media/html.f61e377f2e0e8dfd7b23.png",
+    "static/media/glassdepth-3.png": "/techiera/static/media/glassdepth-3.c60e244ca0f0d2356cff.png",
+    "static/media/branch.png": "/techiera/static/media/branch.5c275b18694fdce776e5.png",
+    "static/media/glassdepth-2.png": "/techiera/static/media/glassdepth-2.69fe4471ca421366d1be.png",
+    "static/media/logo.png": "/techiera/static/media/logo.a237c0b18abba94eb810.png",
+    "static/media/node.png": "/techiera/static/media/node.003ad3d13d38d078f3fc.png",
+    "static/media/net.png": "/techiera/static/media/net.c11b976a466cc9f9f5bf.png",
+    "static/media/react.png": "/techiera/static/media/react.20ec11c4799854e3803d.png",
+    "static/media/css.jpg": "/techiera/static/media/css.ef605f2148ca970497b5.jpg",
+    "index.html": "/techiera/index.html",
+    "main.e9b9a548.css.map": "/techiera/static/css/main.e9b9a548.css.map",
+    "main.d3c8ea71.js.map": "/techiera/static/js/main.d3c8ea71.js.map",
+    "787.928f6902.chunk.js.map": "/techiera/static/js/787.928f6902.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b32d76b7.css",
-    "static/js/main.00770d8e.js"
+    "static/css/main.e9b9a548.css",
+    "static/js/main.d3c8ea71.js"
   ]
 }
