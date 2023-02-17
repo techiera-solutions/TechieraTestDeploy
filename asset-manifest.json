@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TechieraTestDeploy/static/css/main.93ce8e7e.css",
-    "main.js": "/TechieraTestDeploy/static/js/main.7ce1032e.js",
+    "main.css": "/TechieraTestDeploy/static/css/main.2bbe66be.css",
+    "main.js": "/TechieraTestDeploy/static/js/main.d78e702c.js",
     "static/js/787.928f6902.chunk.js": "/TechieraTestDeploy/static/js/787.928f6902.chunk.js",
     "static/media/TeamAditi.jpeg": "/TechieraTestDeploy/static/media/TeamAditi.4e6fe1eb47b73493952d.jpeg",
     "static/media/glassdepth-1.png": "/TechieraTestDeploy/static/media/glassdepth-1.0c5dbffdd0a7962d53e7.png",
@@ -17,14 +17,14 @@
     "static/media/net.png": "/TechieraTestDeploy/static/media/net.c11b976a466cc9f9f5bf.png",
     "static/media/react.png": "/TechieraTestDeploy/static/media/react.20ec11c4799854e3803d.png",
     "static/media/css.jpg": "/TechieraTestDeploy/static/media/css.ef605f2148ca970497b5.jpg",
-    "static/media/techieralogorbg.svg": "/TechieraTestDeploy/static/media/techieralogorbg.c34e856a31567acf53c37c6b1ec958d1.svg",
+    "static/media/techieralogorbg.svg": "/TechieraTestDeploy/static/media/techieralogorbg.61d6f2ac494b23c76909cf99083ab70c.svg",
     "index.html": "/TechieraTestDeploy/index.html",
-    "main.93ce8e7e.css.map": "/TechieraTestDeploy/static/css/main.93ce8e7e.css.map",
-    "main.7ce1032e.js.map": "/TechieraTestDeploy/static/js/main.7ce1032e.js.map",
+    "main.2bbe66be.css.map": "/TechieraTestDeploy/static/css/main.2bbe66be.css.map",
+    "main.d78e702c.js.map": "/TechieraTestDeploy/static/js/main.d78e702c.js.map",
     "787.928f6902.chunk.js.map": "/TechieraTestDeploy/static/js/787.928f6902.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93ce8e7e.css",
-    "static/js/main.7ce1032e.js"
+    "static/css/main.2bbe66be.css",
+    "static/js/main.d78e702c.js"
   ]
 }
