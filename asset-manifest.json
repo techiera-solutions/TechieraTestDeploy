@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TechieraTestDeploy/static/css/main.2bbe66be.css",
-    "main.js": "/TechieraTestDeploy/static/js/main.8584852e.js",
+    "main.css": "/TechieraTestDeploy/static/css/main.0b940980.css",
+    "main.js": "/TechieraTestDeploy/static/js/main.0cf1bbdf.js",
     "static/js/787.928f6902.chunk.js": "/TechieraTestDeploy/static/js/787.928f6902.chunk.js",
     "static/media/4.png": "/TechieraTestDeploy/static/media/4.639922c767cb068191f4.png",
     "static/media/1.jpg": "/TechieraTestDeploy/static/media/1.ad1b44cb41914a6c8ad1.jpg",
@@ -13,6 +13,8 @@
     "static/media/laptop.png": "/TechieraTestDeploy/static/media/laptop.d22a9764f1b7b1542aca.png",
     "static/media/html.png": "/TechieraTestDeploy/static/media/html.f61e377f2e0e8dfd7b23.png",
     "static/media/glassdepth-3.png": "/TechieraTestDeploy/static/media/glassdepth-3.c60e244ca0f0d2356cff.png",
+    "static/media/crossMark.png": "/TechieraTestDeploy/static/media/crossMark.8da2a79dcde51386076e.png",
+    "static/media/tickMark.png": "/TechieraTestDeploy/static/media/tickMark.440be97f2fe34089d0bf.png",
     "static/media/branch.png": "/TechieraTestDeploy/static/media/branch.5c275b18694fdce776e5.png",
     "static/media/glassdepth-2.png": "/TechieraTestDeploy/static/media/glassdepth-2.69fe4471ca421366d1be.png",
     "static/media/logo.png": "/TechieraTestDeploy/static/media/logo.a237c0b18abba94eb810.png",
@@ -24,13 +26,13 @@
     "static/media/css.jpg": "/TechieraTestDeploy/static/media/css.ef605f2148ca970497b5.jpg",
     "static/media/techieralogorbg.svg": "/TechieraTestDeploy/static/media/techieralogorbg.61d6f2ac494b23c76909cf99083ab70c.svg",
     "index.html": "/TechieraTestDeploy/index.html",
-    "static/media/laptopsvg.svg": "/TechieraTestDeploy/static/media/laptopsvg.e79d091d94fd030b88c4469ad574f97e.svg",
-    "main.2bbe66be.css.map": "/TechieraTestDeploy/static/css/main.2bbe66be.css.map",
-    "main.8584852e.js.map": "/TechieraTestDeploy/static/js/main.8584852e.js.map",
+    "static/media/laptopsvg.svg": "/TechieraTestDeploy/static/media/laptopsvg.819a1b82d90a22a1cea54fef9ccf0847.svg",
+    "main.0b940980.css.map": "/TechieraTestDeploy/static/css/main.0b940980.css.map",
+    "main.0cf1bbdf.js.map": "/TechieraTestDeploy/static/js/main.0cf1bbdf.js.map",
     "787.928f6902.chunk.js.map": "/TechieraTestDeploy/static/js/787.928f6902.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bbe66be.css",
-    "static/js/main.8584852e.js"
+    "static/css/main.0b940980.css",
+    "static/js/main.0cf1bbdf.js"
   ]
 }
