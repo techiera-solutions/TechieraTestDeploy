@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/TechieraTestDeploy/static/css/main.776f13ae.css",
-    "main.js": "/TechieraTestDeploy/static/js/main.1c2fdc58.js",
+    "main.css": "/TechieraTestDeploy/static/css/main.3245cdb1.css",
+    "main.js": "/TechieraTestDeploy/static/js/main.9dd63837.js",
     "static/js/787.928f6902.chunk.js": "/TechieraTestDeploy/static/js/787.928f6902.chunk.js",
     "static/media/4.png": "/TechieraTestDeploy/static/media/4.639922c767cb068191f4.png",
     "static/media/1.jpg": "/TechieraTestDeploy/static/media/1.ad1b44cb41914a6c8ad1.jpg",
@@ -33,12 +33,12 @@
     "static/media/centerLaptopSVG.svg": "/TechieraTestDeploy/static/media/centerLaptopSVG.6335d0bc038b435e0b54c63241584a58.svg",
     "static/media/laptopsvg.svg": "/TechieraTestDeploy/static/media/laptopsvg.2a83e09e91d8b60ca9237b6b5e2b93e0.svg",
     "index.html": "/TechieraTestDeploy/index.html",
-    "main.776f13ae.css.map": "/TechieraTestDeploy/static/css/main.776f13ae.css.map",
-    "main.1c2fdc58.js.map": "/TechieraTestDeploy/static/js/main.1c2fdc58.js.map",
+    "main.3245cdb1.css.map": "/TechieraTestDeploy/static/css/main.3245cdb1.css.map",
+    "main.9dd63837.js.map": "/TechieraTestDeploy/static/js/main.9dd63837.js.map",
     "787.928f6902.chunk.js.map": "/TechieraTestDeploy/static/js/787.928f6902.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.776f13ae.css",
-    "static/js/main.1c2fdc58.js"
+    "static/css/main.3245cdb1.css",
+    "static/js/main.9dd63837.js"
   ]
 }
