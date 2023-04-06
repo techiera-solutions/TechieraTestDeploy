@@ -1,14 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9625302f.css",
-    "main.js": "/static/js/main.02940313.js",
+    "main.css": "/static/css/main.3d80e95d.css",
+    "main.js": "/static/js/main.a874f219.js",
     "static/js/787.928f6902.chunk.js": "/static/js/787.928f6902.chunk.js",
+    "static/media/r2.HEIC": "/static/media/r2.1f90fdf75940705b79e5.HEIC",
     "static/media/4.png": "/static/media/4.639922c767cb068191f4.png",
-    "static/media/1.jpg": "/static/media/1.ad1b44cb41914a6c8ad1.jpg",
+    "static/media/r1.heic": "/static/media/r1.d52046728155ba2549fb.heic",
     "static/media/3.jpg": "/static/media/3.5c4fb3fe17de4a671335.jpg",
+    "static/media/Rishabh.png": "/static/media/Rishabh.7a7e5b7fb73eaaaa635d.png",
     "static/media/2.jpg": "/static/media/2.aceeaca03ebb7bf638bd.jpg",
     "static/media/TeamAditi.jpeg": "/static/media/TeamAditi.5da1f9f1079eda8497f6.jpeg",
-    "static/media/Rishabh.png": "/static/media/Rishabh.e2970cc243a557144ada.png",
+    "static/media/1.jpg": "/static/media/1.1a98c60d3139bc11da96.jpg",
     "static/media/glassdepth-1.png": "/static/media/glassdepth-1.0c5dbffdd0a7962d53e7.png",
     "static/media/js.jpg": "/static/media/js.a389c9cbcde42923bfab.jpg",
     "static/media/laptop.png": "/static/media/laptop.d22a9764f1b7b1542aca.png",
@@ -34,12 +36,12 @@
     "static/media/centerLaptopSVG.svg": "/static/media/centerLaptopSVG.6335d0bc038b435e0b54c63241584a58.svg",
     "static/media/laptopsvg.svg": "/static/media/laptopsvg.2a83e09e91d8b60ca9237b6b5e2b93e0.svg",
     "index.html": "/index.html",
-    "main.9625302f.css.map": "/static/css/main.9625302f.css.map",
-    "main.02940313.js.map": "/static/js/main.02940313.js.map",
+    "main.3d80e95d.css.map": "/static/css/main.3d80e95d.css.map",
+    "main.a874f219.js.map": "/static/js/main.a874f219.js.map",
     "787.928f6902.chunk.js.map": "/static/js/787.928f6902.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9625302f.css",
-    "static/js/main.02940313.js"
+    "static/css/main.3d80e95d.css",
+    "static/js/main.a874f219.js"
   ]
 }
