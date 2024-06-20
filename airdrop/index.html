@@ -1,0 +1,44 @@
+<html>
+
+<head>
+  <title>🎁🪂AIR DR0P</title>
+  <link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+
+<body>
+  <h1>Supply Marked</h1>
+  <h4>Loot Supply</h4>
+  <h3>Files [Hot Supply]</h3>
+  <form action="/api/v1/supply/loot/file" method="post">
+    <input type="text" class="form-control" placeholder="Locker-ID (XXXX)" name="locker">
+    <input type="text" class="form-control" placeholder="Token" name="token">
+    <input type="submit" value="Loot Supply">
+  </form>
+  <h3>Text | Link [Flare]</h3>
+  <form action="/api/v1/supply/loot/text" method="post">
+    <input type="text" class="form-control" placeholder="Locker-ID (XXXX)" name="locker">
+    <input type="text" class="form-control" placeholder="Token" name="token">
+    <input type="submit" value="Loot Supply">
+  </form>
+  <br/><hr>
+  <h4>Load Supply</h4>
+  <h3>Files [Hot Supply]</h3>
+  <form action="/api/v1/supply/load/file" method="post" enctype="multipart/form-data">
+    <input type="text" class="form-control" placeholder="Token" name="token">
+    <input type="file" name="doc" />
+    <input type="submit" value="Load Supply">
+  </form>
+  <br/>
+  <!-- <p style="color: blue;"><b>Beta</b></p> -->
+  <h3>Text | Link [Flare]</h3>
+  <form action="/api/v1/supply/load/text" method="post">
+    <!-- <fieldset disabled="disabled"> -->
+    <input type="text" placeholder="Token" name="token">
+    <input type="text" placeholder="Content to share" name="content" size="33">
+    <input type="submit" value="Load Supply">
+  <!-- </fieldset> -->
+  </form>
+  <script src="./javascripts/script.js">
+  </script>
+</body>
+</html>
